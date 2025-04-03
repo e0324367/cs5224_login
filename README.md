@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+can ignore ListGroup.tsx file (that was just my test file to see how react works)
